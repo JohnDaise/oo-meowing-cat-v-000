@@ -1,7 +1,8 @@
 ## code your solution here.
-class cat = cat.new(:attr_names) do
+class Cat = cat.new(:attr_names) do
+
   def meow
-    puts "meow"
+    puts "meow!"
   end
 
 
